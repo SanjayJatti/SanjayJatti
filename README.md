@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @SanjayJatti
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning vanilla javascript and react.js
+
